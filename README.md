@@ -4,9 +4,9 @@
 - NIM : 2041720074
 - Kelas : TI-3H
 - UI Design
-  <img src="./assets/reports/ui-ux.jpg">
+- <img src="./assets/reports/ui-ux.jpg">
 - Runing Code
-  <img src="./assets/reports/screenshot_listview.png">
+- <img src="./assets/reports/screenshot_listview.png">
 
 A new Flutter project.
 
