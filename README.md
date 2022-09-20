@@ -3,7 +3,7 @@
 - Nama : Mochammad Hairullah
 - NIM : 2041720074
 - Kelas : TI-3H
-- UI Design
+- UI Design In Figma
 - <img src="./assets/reports/ui-ux.jpg">
 - Runing Code
 - <img src="./assets/reports/screenshot_listview.png">
